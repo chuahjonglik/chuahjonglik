@@ -13,7 +13,7 @@
 ##
 *真的不懂不懂*
 
-<center>*Wisdom is the **Ultimate Cheat Code***</center>
+*Wisdom is the **Ultimate Cheat Code***
 
 <!---
 chuahjonglik/chuahjonglik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
